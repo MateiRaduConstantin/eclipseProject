@@ -15,6 +15,11 @@ public class Test4 {
 		this.b = b;
 	}
 	
+	char c;
+	public Test4(char c) {
+		this.c = c;
+  }
+  
 	double d;
 	public Test4(double d) {
 		this.d = d;
